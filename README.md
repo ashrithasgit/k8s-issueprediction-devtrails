@@ -1,7 +1,7 @@
 # Kubernetes Failure Prediction Model for DEVTRAILS by Guidewire
 
 ## Overview
-This is our submission for the DEVTRAILS hackathon conducted by Guidewire.We are currently studying in 6th semester at Dayanad Sagar University. We aim to predict 6 issues that are faced in k8 clusters. We used different algorithms like LighGMB and Random forest but XGBoost had the highest accuracy.
+This is our submission for the DEVTRAILS hackathon conducted by Guidewire. We are currently studying in 6th semester at Dayanad Sagar University. We aim to predict 6 issues that are faced in k8 clusters. We used different algorithms like LighGMB and Random forest but XGBoost had the highest accuracy.
 
 ## Failure Categories
 The model predicts the following Kubernetes issues:
