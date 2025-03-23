@@ -47,11 +47,14 @@ python evaluate_model.py
 - Anomaly detection using deep learning
 - Real-time failure prediction integration
 
+## Video Demo
+https://drive.google.com/file/d/1Jg-hA5Kz9o-PGaAoGZwnboYtOl7aQNjZ/view?usp=drive_link
+
 ## Contact us:
 Ashritha Arunkumar - arunkumarashrithaa@gmail.com
 B Dhivya - dhivyabalakumar28@gmail.com
 Manasvini V -
-Pranati Biswal - 
+Pranati Biswal - pranatibiswal1108@gmail.com
 
 
 
