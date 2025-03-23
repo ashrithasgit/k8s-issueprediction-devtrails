@@ -52,8 +52,11 @@ https://drive.google.com/file/d/1Jg-hA5Kz9o-PGaAoGZwnboYtOl7aQNjZ/view?usp=drive
 
 ## Contact us:
 Ashritha Arunkumar - arunkumarashrithaa@gmail.com
+
 B Dhivya - dhivyabalakumar28@gmail.com
-Manasvini V -
+
+Manasvini V - manasvinivalse@gmail.com
+
 Pranati Biswal - pranatibiswal1108@gmail.com
 
 
