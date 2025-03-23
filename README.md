@@ -47,11 +47,15 @@ python evaluate_model.py
 - Anomaly detection using deep learning
 - Real-time failure prediction integration
 
+##Demo Video 
+https://github.com/ashrithasgit/k8s-issueprediction-devtrails
+
+
 ## Contact us:
 Ashritha Arunkumar - arunkumarashrithaa@gmail.com
 B Dhivya - dhivyabalakumar28@gmail.com
 Manasvini V -
-Pranati Biswal - 
+Pranati Biswal - pranatibiswal1108@gmail.com
 
 
 
